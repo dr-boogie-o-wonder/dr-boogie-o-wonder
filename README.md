@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dr-boogie-o-wonder
+- 👋 Hi, I’m Dylan
 - 👀 I’m interested in finance, machine learning, and sentiment analysis
 - 🌱 I’m currently learning financial econometrics, data analysis, and financial analysis
 - 💞️ I’m looking to collaborate on anything!
